@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salliemckee&label=Profile%20views&color=0e75b6&style=flat" alt="salliemckee" /> </p>
 
-- 🌱 I’m currently learning **Stripe**
+- 🌱 I’m currently learning **Nest.js**
 
 - 🌈 My pronouns **they/them/theirs**
 
