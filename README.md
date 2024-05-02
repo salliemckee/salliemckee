@@ -7,11 +7,11 @@
 
 - 📫 How to reach me **salliemckee7@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sallie-sylvaine/](https://www.linkedin.com/in/sallie-sylvaine/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/sal-sylvaine/](https://www.linkedin.com/in/sal-sylvaine/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sallie-sylvaine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sallie-sylvaine" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sal-sylvaine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sallie-sylvaine" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
