@@ -5,7 +5,7 @@
 
 - 🌈 My pronouns **they/them/theirs**
 
-- 📫 How to reach me **salliemckee7@gmail.com**
+- 📫 How to reach me **salsylvaine@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sal-sylvaine/](https://www.linkedin.com/in/sal-sylvaine/)
 
